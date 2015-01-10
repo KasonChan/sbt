@@ -1,4 +1,10 @@
 [0m[[0minfo[0m] [0m[32mmainTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should sum(1, 1) = 2[0m[0m
-[0m[[0minfo[0m] [0m[32m- should sum(7, 5) = 12[0m[0m
-[0m[[0minfo[0m] [0m[32m- should sum(-1, 0) = -1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should plus(1)(1) = 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- should plus(7)(5) = 12[0m[0m
+[0m[[0minfo[0m] [0m[32m- should plus(-1)(0) = -1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should minus(-1)(0) = -1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should time(-2)(-5) = 10[0m[0m
+[0m[[0minfo[0m] [0m[32m- should time(5)(6) = 30[0m[0m
+[0m[[0minfo[0m] [0m[32m- should divide(10)(0) = 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- should divide(7)(2) = 3.5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should minus(plus(divide(7)(2))(5))(9) = -0.5[0m[0m
