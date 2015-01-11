@@ -1,0 +1,1 @@
+Index.PACKAGES = {"Palindrome" : [{"object" : "Palindrome\/main$.html", "name" : "Palindrome.main"}]};
