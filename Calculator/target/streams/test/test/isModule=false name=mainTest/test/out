@@ -1,10 +1,19 @@
 [0m[[0minfo[0m] [0m[32mmainTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should plus(1)(1) = 2[0m[0m
-[0m[[0minfo[0m] [0m[32m- should plus(7)(5) = 12[0m[0m
-[0m[[0minfo[0m] [0m[32m- should plus(-1)(0) = -1[0m[0m
-[0m[[0minfo[0m] [0m[32m- should minus(-1)(0) = -1[0m[0m
-[0m[[0minfo[0m] [0m[32m- should time(-2)(-5) = 10[0m[0m
-[0m[[0minfo[0m] [0m[32m- should time(5)(6) = 30[0m[0m
-[0m[[0minfo[0m] [0m[32m- should divide(10)(0) = 0[0m[0m
-[0m[[0minfo[0m] [0m[32m- should divide(7)(2) = 3.5[0m[0m
-[0m[[0minfo[0m] [0m[32m- should minus(plus(divide(7)(2))(5))(9) = -0.5[0m[0m
+[0m[[0minfo[0m] [0m[32mplus(1)(1)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 2[0m[0m
+[0m[[0minfo[0m] [0m[32mplus(7)(5)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 12[0m[0m
+[0m[[0minfo[0m] [0m[32mplus(-1)(0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = -1[0m[0m
+[0m[[0minfo[0m] [0m[32mminus(-1)(0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = -1[0m[0m
+[0m[[0minfo[0m] [0m[32mtime(-2)(-5)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 10[0m[0m
+[0m[[0minfo[0m] [0m[32mtime(5)(6)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 30[0m[0m
+[0m[[0minfo[0m] [0m[32mdivide(10)(0)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 0[0m[0m
+[0m[[0minfo[0m] [0m[32mdivide(7)(2)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = 3.5[0m[0m
+[0m[[0minfo[0m] [0m[32mminus(plus(divide(7)(2))(5))(9)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should = -0.5[0m[0m
