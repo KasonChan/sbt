@@ -1,6 +1,10 @@
 # SBT
-target
-project
+A/target
+A/project
+Calculator/target
+Calculator/project
+Palindrome/target
+Palindrome/project
 
 # Mac
 .DS_Store
